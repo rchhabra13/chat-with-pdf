@@ -30,8 +30,8 @@ A powerful RAG (Retrieval-Augmented Generation) application that allows you to h
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rchhabra13/portfolio-projects.git
-   cd portfolio-projects/chat_with_pdf
+   git clone https://github.com/rchhabra13/chat_with_pdf.git
+   cd chat_with_pdf
    ```
 
 2. **Install dependencies**
